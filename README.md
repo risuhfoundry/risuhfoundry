@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rishab 
 **Founder Mindset || AI + IoT Developer || Building Scalable Products ||  IoT Engineer from India**
 
-**Email Me 👉 ✉️ **risuhfoundry@gmail.com** For Collaboration/Project or Anything Else. 😊😊**
+**Email Me 👉 ✉️ **risuhfoundry@gmail.com** For Collaboration/Project or Anything Else. 😊**
 
 # 💫 About Me:
 🔭 Building AI + hardware-powered systems<br>👯 Open to collabs that actually push boundaries<br>🤝 Exploring scale, infra, and intelligent systems<br>🌱 Learning how to build tech that survives real-world use<br>💬 Startups • Full Stack • IoT • Arduino • Raspberry Pi<br>⚡ Idea → Circuit → Code → Product
