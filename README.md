@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rishab 
-**Founder Mindset || AI + IoT Developer || Building Scalable Products**
+**Founder Mindset || AI + IoT Developer || Building Scalable Products ||  IoT Engineer from India**
 
 **Email Me 👉 ✉️ **risuhfoundry@gmail.com** For Collaboration/Project or Anything Else. 😊😊**
 
