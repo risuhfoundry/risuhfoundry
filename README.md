@@ -75,11 +75,26 @@ I'm always interested in **collaborations that push boundaries**. Whether it's s
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=risuhfoundry&theme=nord&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risuhfoundry&theme=nord&hide_border=true&layout=compact" alt="Top Languages" />
+  
+[![Rishab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=risuhfoundry&show_icons=true&theme=radical&hide_border=true)](https://github.com/risuhfoundry)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=risuhfoundry&theme=radical&hide_border=true&layout=compact)](https://github.com/risuhfoundry)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=risuhfoundry&theme=radical&hide_border=true)](https://github.com/risuhfoundry)
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=risuhfoundry&theme=radical&hide_border=true" />
 </div>
 
 ---
+
+### 👁️ Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=risuhfoundry&color=blueviolet)
 
 ## 💡 My Philosophy
 
@@ -104,9 +119,3 @@ Have an exciting project? Want to collaborate? Just want to chat about tech?
 **[Drop me an email](mailto:risuhfoundry@gmail.com)** — I read and respond to all genuine inquiries.
 
 ---
-
-<div align="center">
-  
-**Made with ❤️ while building the future**
-
-</div>
