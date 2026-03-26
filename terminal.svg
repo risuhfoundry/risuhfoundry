@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 380" width="680">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+
+      .l1  { animation: reveal 0.3s 0.5s forwards; opacity: 0; }
+      .l2  { animation: reveal 0.3s 1.2s forwards; opacity: 0; }
+      .l3  { animation: reveal 0.3s 1.5s forwards; opacity: 0; }
+      .l4  { animation: reveal 0.3s 1.8s forwards; opacity: 0; }
+      .l5  { animation: reveal 0.3s 2.1s forwards; opacity: 0; }
+      .l6  { animation: reveal 0.3s 2.8s forwards; opacity: 0; }
+      .l7  { animation: reveal 0.3s 3.1s forwards; opacity: 0; }
+      .l8  { animation: reveal 0.3s 3.4s forwards; opacity: 0; }
+      .l9  { animation: reveal 0.3s 3.7s forwards; opacity: 0; }
+      .l10 { animation: reveal 0.3s 4.0s forwards; opacity: 0; }
+      .l11 { animation: reveal 0.3s 4.4s forwards; opacity: 0; }
+
+      .cursor { animation: blink 1s step-end infinite; }
+
+      @keyframes blink   { 50% { opacity: 0; } }
+      @keyframes reveal  { to  { opacity: 1; } }
+      @keyframes scanmove { from { transform: translateY(0); } to { transform: translateY(40px); } }
+    </style>
+
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(0,255,180,0.04)" stroke-width="0.5"/>
+    </pattern>
+
+    <pattern id="scan" width="680" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="680" height="2" fill="rgba(0,255,180,0.015)"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="680" height="380" rx="12" fill="#060A12"/>
+  <rect width="680" height="380" rx="12" fill="url(#grid)"/>
+
+  <!-- Glow orbs -->
+  <ellipse cx="80" cy="80" rx="200" ry="160" fill="#00FFD1" opacity="0.04"/>
+  <ellipse cx="620" cy="320" rx="180" ry="140" fill="#FF2D78" opacity="0.04"/>
+
+  <!-- Scanlines -->
+  <rect width="680" height="380" rx="12" fill="url(#scan)" style="animation: scanmove 8s linear infinite;"/>
+
+  <!-- Terminal border -->
+  <rect x="1" y="1" width="678" height="378" rx="12" fill="none" stroke="#00FFD1" stroke-width="0.5" opacity="0.3"/>
+  <rect x="3" y="3" width="674" height="374" rx="10" fill="none" stroke="#00FFD1" stroke-width="0.5" opacity="0.1"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="680" height="44" rx="12" fill="rgba(0,255,180,0.06)"/>
+  <rect x="0" y="34" width="680" height="10" fill="rgba(0,255,180,0.06)"/>
+  <rect x="0" y="43" width="680" height="1" fill="rgba(0,255,180,0.15)"/>
+
+  <!-- Traffic lights -->
+  <circle cx="26" cy="22" r="6" fill="#FF5F57"/>
+  <circle cx="46" cy="22" r="6" fill="#FFBD2E"/>
+  <circle cx="66" cy="22" r="6" fill="#28CA41"/>
+
+  <!-- Title -->
+  <text x="340" y="27" text-anchor="middle" class="mono" font-size="11" fill="rgba(255,255,255,0.3)" letter-spacing="1">rishab@foundry  ●  zsh</text>
+
+  <!-- Prompt 1 -->
+  <g class="l1">
+    <text x="40" y="84" class="mono" font-size="13" fill="#00FFD1">➜</text>
+    <text x="60" y="84" class="mono" font-size="13" fill="#7C4DFF">~</text>
+    <text x="75" y="84" class="mono" font-size="13" fill="rgba(255,255,255,0.8)"> cat </text>
+    <text x="118" y="84" class="mono" font-size="13" fill="#00FFD1">identity.yaml</text>
+  </g>
+
+  <g class="l2">
+    <text x="50" y="108" class="mono" font-size="12" fill="#FFD700">name</text>
+    <text x="116" y="108" class="mono" font-size="12" fill="rgba(255,255,255,0.3)">      :</text>
+    <text x="158" y="108" class="mono" font-size="12" fill="#00FFD1" font-weight="700">Rishab</text>
+  </g>
+  <g class="l3">
+    <text x="50" y="126" class="mono" font-size="12" fill="#FFD700">title</text>
+    <text x="116" y="126" class="mono" font-size="12" fill="rgba(255,255,255,0.3)">     :</text>
+    <text x="158" y="126" class="mono" font-size="12" fill="#FF2D78">AI × IoT × Full-Stack Developer</text>
+  </g>
+  <g class="l4">
+    <text x="50" y="144" class="mono" font-size="12" fill="#FFD700">location</text>
+    <text x="116" y="144" class="mono" font-size="12" fill="rgba(255,255,255,0.3)">  :</text>
+    <text x="158" y="144" class="mono" font-size="12" fill="rgba(255,255,255,0.65)">India</text>
+  </g>
+  <g class="l5">
+    <text x="50" y="162" class="mono" font-size="12" fill="#FFD700">philosophy</text>
+    <text x="116" y="162" class="mono" font-size="12" fill="rgba(255,255,255,0.3)"> :</text>
+    <text x="158" y="162" class="mono" font-size="12" fill="rgba(255,255,255,0.6)">Idea </text>
+    <text x="198" y="162" class="mono" font-size="12" fill="#7C4DFF">→</text>
+    <text x="212" y="162" class="mono" font-size="12" fill="rgba(255,255,255,0.6)"> Circuit </text>
+    <text x="270" y="162" class="mono" font-size="12" fill="#7C4DFF">→</text>
+    <text x="284" y="162" class="mono" font-size="12" fill="rgba(255,255,255,0.6)"> Code </text>
+    <text x="328" y="162" class="mono" font-size="12" fill="#7C4DFF">→</text>
+    <text x="342" y="162" class="mono" font-size="12" fill="#00FFD1" font-weight="700"> Product</text>
+  </g>
+
+  <!-- Divider -->
+  <g class="l6">
+    <line x1="40" y1="182" x2="640" y2="182" stroke="rgba(0,255,180,0.15)" stroke-width="0.5" stroke-dasharray="4 4"/>
+  </g>
+
+  <!-- Prompt 2 -->
+  <g class="l6">
+    <text x="40" y="204" class="mono" font-size="13" fill="#00FFD1">➜</text>
+    <text x="60" y="204" class="mono" font-size="13" fill="#7C4DFF">~</text>
+    <text x="75" y="204" class="mono" font-size="13" fill="rgba(255,255,255,0.8)"> ls </text>
+    <text x="105" y="204" class="mono" font-size="13" fill="#00FFD1">./currently/</text>
+  </g>
+
+  <g class="l7">
+    <text x="50" y="228" class="mono" font-size="12" fill="#FF2D78">▸</text>
+    <text x="66" y="228" class="mono" font-size="12" fill="rgba(255,255,255,0.65)">Building intelligent hardware-software systems</text>
+  </g>
+  <g class="l8">
+    <text x="50" y="246" class="mono" font-size="12" fill="#FF2D78">▸</text>
+    <text x="66" y="246" class="mono" font-size="12" fill="rgba(255,255,255,0.65)">Obsessed with the AI × IoT intersection</text>
+  </g>
+  <g class="l9">
+    <text x="50" y="264" class="mono" font-size="12" fill="#FF2D78">▸</text>
+    <text x="66" y="264" class="mono" font-size="12" fill="rgba(255,255,255,0.65)">Always learning, always shipping</text>
+  </g>
+  <g class="l10">
+    <text x="50" y="282" class="mono" font-size="12" fill="#FF2D78">▸</text>
+    <text x="66" y="282" class="mono" font-size="12" fill="rgba(255,255,255,0.65)">Open to collabs, co-founder roles &amp; consulting</text>
+  </g>
+
+  <!-- Divider 2 -->
+  <g class="l10">
+    <line x1="40" y1="302" x2="640" y2="302" stroke="rgba(0,255,180,0.15)" stroke-width="0.5" stroke-dasharray="4 4"/>
+  </g>
+
+  <!-- Final cursor line -->
+  <g class="l11">
+    <text x="40" y="328" class="mono" font-size="13" fill="#00FFD1">➜</text>
+    <text x="60" y="328" class="mono" font-size="13" fill="rgba(255,255,255,0.4)">risuhfoundry@github.com</text>
+    <rect x="258" y="316" width="8" height="14" fill="#00FFD1" class="cursor" rx="1"/>
+  </g>
+
+  <!-- Tagline -->
+  <g class="l11">
+    <text x="340" y="360" text-anchor="middle" class="mono" font-size="10" fill="rgba(0,255,180,0.3)" letter-spacing="2">not just vibe coding — i actually ship things.</text>
+  </g>
+
+</svg>
