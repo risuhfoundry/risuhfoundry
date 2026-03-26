@@ -17,14 +17,14 @@
 ║  rishab@foundry  ●  zsh                                          ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  ➜ ~ cat identity.yaml                                           ║
+║  ➜ ~ cat identity.yaml                                          ║
 ║                                                                  ║
 ║    name       : Rishab                                           ║
 ║    title      : AI × IoT × Full-Stack Developer                  ║
-║    location   : India 🇮🇳                                        ║
+║    location   : India 🇮🇳                                         ║
 ║    philosophy : Idea → Circuit → Code → Product                  ║
 ║                                                                  ║
-║  ➜ ~ ls ./currently/                                             ║
+║  ➜ ~ ls ./currently/                                            ║
 ║                                                                  ║
 ║    ▸  Building intelligent hardware-software systems             ║
 ║    ▸  Obsessed with the AI × IoT intersection                    ║
