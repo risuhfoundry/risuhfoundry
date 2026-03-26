@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  HEADER  -->
+<!--  HEADER                                                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -7,39 +7,17 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  TERMINAL ANIMATED SVG  -->
+<!--  ANIMATED TERMINAL SVG                                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  rishab@foundry  ●  zsh                                          ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  ➜ ~ cat identity.yaml                                          ║
-║                                                                  ║
-║    name       : Rishab                                           ║
-║    title      : AI × IoT × Full-Stack Developer                  ║
-║    location   : India 🇮🇳                                         ║
-║    philosophy : Idea → Circuit → Code → Product                  ║
-║                                                                  ║
-║  ➜ ~ ls ./currently/                                            ║
-║                                                                  ║
-║    ▸  Building intelligent hardware-software systems             ║
-║    ▸  Obsessed with the AI × IoT intersection                    ║
-║    ▸  Always learning, always shipping                           ║
-║    ▸  Open to collabs, co-founder roles & consulting             ║
-║                                                                  ║
-║  risuhfoundry@github.com █                                       ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://raw.githubusercontent.com/risuhfoundry/risuhfoundry/main/terminal.svg" alt="Terminal Animation" width="100%" />
 </div>
 
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  TYPING SVG  -->
+<!--  TYPING EFFECT                                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -49,7 +27,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  CONTACT BADGES  -->
+<!--  CONTACT BADGES                                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -65,12 +43,12 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  TECH ARSENAL  -->
+<!--  TECH ARSENAL                                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## ⚡ tech arsenal
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -84,6 +62,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
+<br/>
+
 **🌐 Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -92,7 +72,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-**🎨 Design**
+<br/>
+
+**🎨 Design & Creative**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe CC](https://img.shields.io/badge/Adobe_CC-DA1F26?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white)
@@ -111,16 +93,23 @@
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+<br/>
+
 **🗄️ Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase DB](https://img.shields.io/badge/Firebase_DB-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+
+<br/>
 
 **🔌 Hardware & IoT**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
+
+<br/>
 
 **🤖 AI & ML**
 
@@ -134,7 +123,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  GITHUB STATS  -->
+<!--  GITHUB STATS                                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📊 github stats
@@ -157,7 +146,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  CONTRIBUTION GRAPH  -->
+<!--  CONTRIBUTION GRAPH                                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### 📈 contribution graph
@@ -169,7 +158,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  TROPHIES  -->
+<!--  TROPHIES                                                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -179,7 +168,8 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SNAKE  -->
+<!--  SNAKE ANIMATION                                           -->
+<!--  Setup: add platane/snk GitHub Action to generate these   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -193,23 +183,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  PHILOSOPHY  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-  💡 Idea  ──→  🔧 Circuit  ──→  💻 Code  ──→  🚀 Product
-
-          not just vibe coding — i actually ship things.
-```
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  CONNECT  -->
+<!--  CONNECT                                                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 💬 let's connect
@@ -231,7 +205,7 @@ have something wild in mind? want to collab? just wanna talk tech?
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  FOOTER  -->
+<!--  FOOTER                                                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
