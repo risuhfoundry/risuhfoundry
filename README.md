@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020408,50:00FFD1,100:FF2D78&height=200&section=header&text=RISHAB&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=00FFD1&strokeWidth=1&desc=AI%20·%20IoT%20·%20Full-Stack%20·%20Hardware&descAlignY=72&descColor=aaaaaa&descSize=18" />
+  <img width="100%" src="https://raw.githubusercontent.com/risuhfoundry/risuhfoundry/main/header.svg" alt="Rishab Header" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -209,5 +209,5 @@ have something wild in mind? want to collab? just wanna talk tech?
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D78,50:00FFD1,100:020408&height=100&section=footer&animation=fadeIn" />
+  <img width="100%" src="https://raw.githubusercontent.com/risuhfoundry/risuhfoundry/main/header.svg" alt="footer" style="transform:scaleY(-1); opacity:0.5;" />
 </div>
