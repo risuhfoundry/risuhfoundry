@@ -71,30 +71,42 @@ I'm always interested in **collaborations that push boundaries**. Whether it's s
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
 
 ---
+<!-- Snake Game Repo View -->
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
   
-[![Rishab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=risuhfoundry&show_icons=true&theme=radical&hide_border=true)](https://github.com/risuhfoundry)
+[![Rishab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=risuhfoundry&show_icons=true&theme=github_light&hide_border=true&bg_color=FFFFFF&text_color=000000&title_color=0084FF&icon_color=0084FF)](https://github.com/risuhfoundry)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=risuhfoundry&theme=radical&hide_border=true&layout=compact)](https://github.com/risuhfoundry)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=risuhfoundry&theme=github_light&hide_border=true&layout=compact&bg_color=FFFFFF&text_color=000000&title_color=0084FF)](https://github.com/risuhfoundry)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=risuhfoundry&theme=radical&hide_border=true)](https://github.com/risuhfoundry)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=risuhfoundry&theme=github-light&hide_border=true&background=FFFFFF&stroke=0084FF&ring=0084FF&fire=0084FF&currStreakNum=000000&sideNums=000000&currStreakLabel=0084FF&sideLabels=0084FF&dates=000000)](https://github.com/risuhfoundry)
 
 </div>
 
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=risuhfoundry&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=risuhfoundry&theme=github-light&bg_color=FFFFFF&hide_border=true&color=1F6FEB&line=1F6FEB&point=1F6FEB&area_color=1F6FEB&area=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-### 👁️ Profile Views
+### 👁️ Profile Metrics
 
-![Profile views](https://komarev.com/ghpvc/?username=risuhfoundry&color=blueviolet)
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=risuhfoundry&color=0084ff&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/risuhfoundry?style=flat-square&label=Followers&color=0084ff)
+![GitHub User's stars](https://img.shields.io/github/stars/risuhfoundry?style=flat-square&label=Stars&color=0084ff)
+
+</div>
 
 ## 💡 My Philosophy
 
