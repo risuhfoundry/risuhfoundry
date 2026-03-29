@@ -1,0 +1,105 @@
+<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', 'Fira Code', monospace">
+  <defs>
+    <style>
+      .bg { fill: #080B10; }
+      .grid-h { stroke: rgba(0,255,209,0.04); stroke-width: 1; }
+      .grid-v { stroke: rgba(0,255,209,0.04); stroke-width: 1; }
+
+      .name {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 72px;
+        font-weight: 800;
+        fill: #E6EDF3;
+        letter-spacing: -2px;
+        opacity: 0;
+        animation: fadeUp 0.7s 0.3s ease forwards;
+      }
+      .name-outline {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 72px;
+        font-weight: 800;
+        fill: none;
+        stroke: rgba(0,255,209,0.35);
+        stroke-width: 1px;
+        letter-spacing: -2px;
+        opacity: 0;
+        animation: fadeUp 0.7s 0.5s ease forwards;
+      }
+      .tag {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 13px;
+        fill: #00FFD1;
+        letter-spacing: 3px;
+        opacity: 0;
+        animation: fadeUp 0.6s 0.8s ease forwards;
+      }
+      .sub {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 12px;
+        fill: #7D8590;
+        letter-spacing: 1px;
+        opacity: 0;
+        animation: fadeUp 0.6s 1.0s ease forwards;
+      }
+      .line-accent {
+        stroke: #00FFD1;
+        stroke-width: 1.5;
+        opacity: 0;
+        animation: lineGrow 0.8s 0.6s ease forwards;
+      }
+      .dot-accent {
+        fill: #00FFD1;
+        opacity: 0;
+        animation: fadeUp 0.4s 0.7s ease forwards;
+      }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(10px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes lineGrow {
+        from { opacity: 0; stroke-dashoffset: 80; }
+        to   { opacity: 1; stroke-dashoffset: 0; }
+      }
+    </style>
+    <!-- grid -->
+  </defs>
+
+  <!-- bg -->
+  <rect width="900" height="200" class="bg" rx="12"/>
+
+  <!-- grid lines horizontal -->
+  <line x1="0" y1="50"  x2="900" y2="50"  class="grid-h"/>
+  <line x1="0" y1="100" x2="900" y2="100" class="grid-h"/>
+  <line x1="0" y1="150" x2="900" y2="150" class="grid-h"/>
+
+  <!-- grid lines vertical -->
+  <line x1="150" y1="0" x2="150" y2="200" class="grid-v"/>
+  <line x1="300" y1="0" x2="300" y2="200" class="grid-v"/>
+  <line x1="450" y1="0" x2="450" y2="200" class="grid-v"/>
+  <line x1="600" y1="0" x2="600" y2="200" class="grid-v"/>
+  <line x1="750" y1="0" x2="750" y2="200" class="grid-v"/>
+
+  <!-- ambient glow -->
+  <radialGradient id="g1" cx="30%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#00FFD1" stop-opacity="0.07"/>
+    <stop offset="100%" stop-color="#00FFD1" stop-opacity="0"/>
+  </radialGradient>
+  <rect width="900" height="200" fill="url(#g1)" rx="12"/>
+
+  <!-- accent line -->
+  <line x1="40" y1="148" x2="140" y2="148" class="line-accent" stroke-dasharray="100" stroke-dashoffset="100"/>
+  <circle cx="40" cy="148" r="3" class="dot-accent"/>
+
+  <!-- RISHAB solid -->
+  <text x="40" y="130" class="name">RISHAB</text>
+  <!-- ENGINEER outline -->
+  <text x="42" y="196" class="name-outline" font-size="38px" letter-spacing="12px">ENGINEER</text>
+
+  <!-- tag top right -->
+  <text x="860" y="42" class="tag" text-anchor="end">// FULL·STACK</text>
+  <text x="860" y="62" class="sub" text-anchor="end">hardware → cloud → ai</text>
+
+  <!-- corner brackets -->
+  <path d="M870 15 L900 15 L900 45" stroke="rgba(0,255,209,0.25)" stroke-width="1.5" fill="none"/>
+  <path d="M0 155 L0 185 L30 185" stroke="rgba(0,255,209,0.25)" stroke-width="1.5" fill="none"/>
+</svg>
