@@ -150,50 +150,42 @@ solid APIs, and interfaces people actually want to use.
 <tr>
 <td valign="top" width="50%">
 
-### `01` AI Sensor Dashboard
-Real-time IoT sensor pipeline with ML-based anomaly detection,
-MQTT broker, and a live React dashboard on GCP.
+### `01` Vaidy — AI Health Copilot 🇮🇳
 
-![IoT](https://img.shields.io/badge/IoT-141C26?style=flat-square&logoColor=00FFD1&labelColor=141C26&color=00FFD1)
+An AI-powered personal health intelligence layer built for India.
+Reads any diagnostic report (blood tests, MRIs, prescriptions) in
+English or Hindi, builds a longitudinal health timeline, detects
+trends across visits, and answers questions in plain language.
+Supports Apollo, Thyrocare, Lal Path Labs, Dr. Lal & 50+ Indian labs.
+
+[![Live](https://img.shields.io/badge/Live-vaidy.vercel.app-141C26?style=flat-square&logo=vercel&logoColor=00FFD1&labelColor=141C26)](https://vaidy.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repo-risuhfoundry/Vaidy-141C26?style=flat-square&logo=github&logoColor=00FFD1&labelColor=141C26)](https://github.com/risuhfoundry/Vaidy)
+
+![Next.js](https://img.shields.io/badge/Next.js_14-141C26?style=flat-square&logo=next.js&logoColor=00FFD1&labelColor=141C26)
+![TypeScript](https://img.shields.io/badge/TypeScript-141C26?style=flat-square&logo=typescript&logoColor=00FFD1&labelColor=141C26)
 ![Python](https://img.shields.io/badge/Python-141C26?style=flat-square&logo=python&logoColor=00FFD1&labelColor=141C26)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-141C26?style=flat-square&logo=tensorflow&logoColor=00FFD1&labelColor=141C26)
-![React](https://img.shields.io/badge/React-141C26?style=flat-square&logo=react&logoColor=00FFD1&labelColor=141C26)
+![Supabase](https://img.shields.io/badge/Supabase-141C26?style=flat-square&logo=supabase&logoColor=00FFD1&labelColor=141C26)
+![Tailwind](https://img.shields.io/badge/Tailwind-141C26?style=flat-square&logo=tailwind-css&logoColor=00FFD1&labelColor=141C26)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-141C26?style=flat-square&logo=framer&logoColor=00FFD1&labelColor=141C26)
 
 </td>
 <td valign="top" width="50%">
 
-### `02` Smart Home Firmware
-Custom Arduino/RPi firmware with OTA updates, Home Assistant
-integration, and a Node.js API layer for device control.
+### `02` Yantra — Startup Web App
 
-![C++](https://img.shields.io/badge/C++-141C26?style=flat-square&logo=c%2B%2B&logoColor=00FFD1&labelColor=141C26)
-![Arduino](https://img.shields.io/badge/Arduino-141C26?style=flat-square&logo=arduino&logoColor=00FFD1&labelColor=141C26)
-![MQTT](https://img.shields.io/badge/MQTT-141C26?style=flat-square&logoColor=00FFD1&labelColor=141C26&color=00FFD1)
-![Node.js](https://img.shields.io/badge/Node-141C26?style=flat-square&logo=node.js&logoColor=00FFD1&labelColor=141C26)
+A polished TypeScript frontend prototype built for startup-style
+product storytelling. Showcases products, services, and workflows
+in a modern SaaS-grade UI — clean architecture, Vercel-deployed,
+and designed as a solid base for any product landing page.
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+[![Live](https://img.shields.io/badge/Live-yantra--tau.vercel.app-141C26?style=flat-square&logo=vercel&logoColor=00FFD1&labelColor=141C26)](https://yantra-tau.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-akyourowngames/Yantra-141C26?style=flat-square&logo=github&logoColor=00FFD1&labelColor=141C26)](https://github.com/akyourowngames/Yantra)
 
-### `03` Full-Stack Web3 App
-Decentralised app with smart contract integration, wallet auth,
-real-time via Socket.io, and a Next.js frontend.
-
+![TypeScript](https://img.shields.io/badge/TypeScript-141C26?style=flat-square&logo=typescript&logoColor=00FFD1&labelColor=141C26)
 ![Next.js](https://img.shields.io/badge/Next.js-141C26?style=flat-square&logo=next.js&logoColor=00FFD1&labelColor=141C26)
-![Web3](https://img.shields.io/badge/Web3.js-141C26?style=flat-square&logo=web3.js&logoColor=00FFD1&labelColor=141C26)
-![Socket.io](https://img.shields.io/badge/Socket.io-141C26?style=flat-square&logo=socket.io&logoColor=00FFD1&labelColor=141C26)
-
-</td>
-<td valign="top" width="50%">
-
-### `04` Edge ML Classifier
-TensorFlow Lite on Raspberry Pi for real-time image
-classification — sub-100ms inference, zero cloud dependency.
-
-![Python](https://img.shields.io/badge/Python-141C26?style=flat-square&logo=python&logoColor=00FFD1&labelColor=141C26)
-![TF Lite](https://img.shields.io/badge/TF_Lite-141C26?style=flat-square&logo=tensorflow&logoColor=00FFD1&labelColor=141C26)
-![RPi](https://img.shields.io/badge/RPi-141C26?style=flat-square&logo=raspberry-pi&logoColor=00FFD1&labelColor=141C26)
+![React](https://img.shields.io/badge/React-141C26?style=flat-square&logo=react&logoColor=00FFD1&labelColor=141C26)
+![Tailwind](https://img.shields.io/badge/Tailwind-141C26?style=flat-square&logo=tailwind-css&logoColor=00FFD1&labelColor=141C26)
+![Vercel](https://img.shields.io/badge/Vercel-141C26?style=flat-square&logo=vercel&logoColor=00FFD1&labelColor=141C26)
 
 </td>
 </tr>
